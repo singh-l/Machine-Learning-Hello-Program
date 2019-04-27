@@ -15,9 +15,13 @@ assumes Python version 2.7 or 3.5+.
 There are 5 key libraries that you will need to install. Below is a list of the Python SciPy libraries required for this tutorial:
 
 scipy
+
 numpy
+
 matplotlib
+
 pandas
+
 sklearn
 
 
