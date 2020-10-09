@@ -13,16 +13,7 @@ All of the numeric attributes are in the same units and the same scale, not requ
 
 assumes Python version 2.7 or 3.5+.
 
-There are 5 key libraries that you will need to install. Below is a list of the Python SciPy libraries required for this tutorial:
-
-scipy
-
-numpy
-
-matplotlib
-
-pandas
-
-sklearn
+There are 5 key libraries that you will need to install. Below is a list of the Python SciPy libraries required for this:
+scipy, numpy, matplotlib, pandas, sklearn
 
 
