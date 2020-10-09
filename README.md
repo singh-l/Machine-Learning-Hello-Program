@@ -3,6 +3,7 @@ Hello World of Machine Learning
 The best small project to start with on a new tool is the classification of iris flowers (e.g. the iris dataset).
 
 This is a good project because it is so well understood.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Iris_dataset_scatterplot.svg/1200px-Iris_dataset_scatterplot.svg.png">
 
 Attributes are numeric so you have to figure out how to load and handle data.
 It is a classification problem, allowing you to practice with perhaps an easier type of supervised learning algorithm.
